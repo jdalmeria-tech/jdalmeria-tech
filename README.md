@@ -2,7 +2,7 @@
 
 ## 🚀 About Me  
 Learning is an eternal journey, and I'm always excited to explore new technologies.  
-I'm pursuing Software Development at BYU-Idaho (Online) and honing my web development and problem-solving skills.  
+I'm pursuing **Software Development at BYU-Idaho (Online)** and honing my web development and problem-solving skills.  
 
 ## 🛠 Tech Stack  
 - **Frontend:** HTML, CSS, JavaScript  
