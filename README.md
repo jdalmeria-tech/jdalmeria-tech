@@ -6,7 +6,7 @@ I'm pursuing **Software Development at BYU-Idaho (Online)** and honing my web de
 
 ## 🛠 Tech Stack  
 - **Frontend:** HTML, CSS, JavaScript  
-- **Learning:** Expanding my knowledge in full-stack and AI development  
+- **Learning:** Expanding my knowledge in full-stack development 
 
 ## ⏳ When I'm AFK  
 When I'm not coding, you’ll find me:  
